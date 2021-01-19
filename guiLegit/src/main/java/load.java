@@ -22,7 +22,6 @@ public class load extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Cellphone Load");
 
         jTextField1.setText("Enter Cellphone Number");
 

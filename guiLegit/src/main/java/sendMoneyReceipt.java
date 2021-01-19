@@ -40,7 +40,6 @@ public class sendMoneyReceipt extends javax.swing.JFrame {
         dateAndTime = new javax.swing.JTextField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Receipt");
 
         jTextField1.setEditable(false);
 
